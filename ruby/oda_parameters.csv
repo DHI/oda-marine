@@ -1,0 +1,1272 @@
+id,name
+0,Kd
+1,Aske
+2,Vand
+3,Kationer  total
+4,Anioner  total
+5,Konduktivitet
+6,Lystransmission
+7,Bundfald eft. 2 tim.
+8,Bundfald eft. 30 min
+9,Flydeslam
+10,Volumen efter 5 min
+11,Volumen efter 30 min
+12,Volumen
+13,pH
+14,Reaktionstal  Rt
+15,Turbiditet
+16,VÃ¦gtfylde
+17,TrÃ¦stÃ¸v
+18,EpoxystÃ¸v
+19,Part. < 10 mikro.m
+20,Part. > 60 mikro.m
+21,Blandingsfortyndere
+22,KvartsstÃ¸v
+23,SlibestÃ¸v
+24,StÃ¸v total
+25,Farvetal-Pt
+26,Farvestoffer (kval)
+27,Kogepunkt
+28,Smeltepunkt
+29,Frysepunkt
+30,Sigtbarhed
+31,Sigtdybde
+32,Suspenderede stoffer
+33,Salinitet
+34,Restaktivitet
+35,Inddampningsrest
+36,TÃ¸rstof total
+37,TÃ¸rstof  susp.stof
+38,TÃ¸rstof  filtrat
+39,GlÃ¸detab  total
+40,GlÃ¸detab susp.stof
+41,GlÃ¸detab  inddampningsrest
+42,GlÃ¸detab  filtrat
+43,GlÃ¸det. 950 gr total
+44,GlÃ¸det. 950 gr  s.s.
+45,GlÃ¸det. 950 gr ind.
+46,GlÃ¸det. 950 gr  filt
+47,Slamvolumenindex
+48,Slambelastning
+49,Sand i slam
+50,Oxygen indhold
+51,OxygenmÃ¦tning
+52,Aciditet
+53,Alkalinitet total TA
+54,Alk.phenolpthaleinPA
+55,Alk.carbonat CA
+56,Carbonat
+57,Carbondioxid
+58,Carbondioxid  aggr.
+59,Hydrogencarbonat
+60,Natriumhydrogencarbonat
+61,Benzotriazole
+62,5 6-Dimhyl-benzo hyd
+63,Tolyltriazol
+64,Aclonifen
+65,Bitertanol
+66,Diflufenican
+67,Endosulfansulfat
+68,Prosulfocarb
+69,Benzonitril
+70,HÃ¥rdhed  total
+71,HÃ¥rdhed  permanent
+72,HÃ¥rdhed carbonat
+73,Carbon  uorg.
+74,Carbon  org. TOC
+75,Carbon org NVOC
+76,Carbon org VOC
+77,Carbonmonooxid
+78,Part.org.carbon(POC)
+79,DOC
+80,Aflatoksin
+81,Chlorphenol  (m &-p)
+82,Chlormethylphenoler
+83,Cis-1 2-dichlorethyl
+84,1 2-Dichlorethylen
+85,1 1-Dichlorethylen
+86,Trans-1 2-dichloreth
+87,Trichlorethan
+88,4-CPP
+89,2-CPP
+90,2CPA 2-Chlorphenoxy
+91,2C6MPP  2-(2-chlor-6
+92,1-Methyl-2-pyrrolido
+93,Nitrit+Nitrat
+94,SmÃ¸reolie
+95,Barbital
+96,Butobarbital
+97,DEIA
+98,Terbut.azin desethyl
+99,Amobarbital
+100,DHTDMAC
+101,Di(2-Ethylhexyl)adipipat
+102,DEHP
+103,Dibutyltin
+104,Pentobarbital
+105,Dichlorvos
+106,Diethylamin
+107,Diisononylphthalat
+108,Dimethylamin
+109,Dimethylnaphthalener
+110,Di-n-Octylphathalat
+111,Diquat-dibromid
+112,Secobarbital
+113,DSDMAC
+114,DTDMAC
+115,EDTA
+116,N-Phenylacetamid
+117,EOX
+118,1 2-Dibromethane
+119,Famfur
+120,Fluazifop-p-butyl
+121,Fluoreddikesyre
+122,Furathiocarb
+123,Gluphosinat-ammonium
+124,Haloxyfop-ethoxy ethyl
+125,Hexachlorcyclohexan
+126,N-Propanol
+127,Carbofuran  hydroxy
+128,Simazin  hydroxy
+129,Irgarol 1051
+130,Isodrin
+131,Isopropylbenzen
+132,Isobutanol
+133,Alkylbenzensulfonat
+134,Benazolin
+135,Mercaptodimethur
+136,Methylchlorid
+137,Methylnaphthalen
+138,Metoxuron
+139,2 3 6-TBA
+140,Monobutyltin
+141,Monomethylamin
+142,Moskusxylener
+143,Nonylphenoler
+144,Nonylpheonolethoxyl
+145,2-6 MCPA
+146,OCDD
+147,OCDF
+148,Octylphenol
+149,Octylphenolethoxylat
+150,Pentachlorethan
+151,Perylen
+152,Phenanthren
+153,Propaquizafop
+154,sevron red YCN
+155,steacyl blau RP
+156,steacyl orange GR167
+157,steacyl rot RY
+158,tectilon blau4RO1200
+159,tectilon gelb 3R 200
+160,tectilon rot 2R
+161,telon blau K-BRL 200
+162,telon blau K-GGL 200
+163,telon gelb 3RL 250
+164,telon gelb K-RLN 200
+165,telon rot K-BRL 200
+166,MTBE
+167,Thiram
+168,Tributyltin (TBT)
+169,TCPP
+170,Tricresylphosphat
+171,Trimethylamin
+172,Triphenyltin(TPhT)
+173,BI5 efter henstand
+174,Biok.iltforbr.   BI5
+175,Biok.iltf.filt   BI5
+176,Biok.iltf. modif BI5
+177,Biok.iltforbr.  BI7
+178,Biok.iltf..filt  BI7
+179,Biok.ilft. modif BI7
+180,BI5  mod. filt.
+181,BI10 Bio. iltf. 10 d
+182,Zirkonium (Zi)
+183,Kem.iltf. COD  total
+184,Kem.iltf. COD  filtr
+185,Kem.iltf. COD SS
+186,Kem.iltf. COD  modif
+187,Kem.iltf. KIF total
+188,Kem.iltf. KIF filtr
+189,Ke .iltf. KIF SS
+190,1 3 5-trichlorbenzen
+191,O O O-triethylthiop.
+192,O O S-trimethyldith.
+193,O O S-trimethylthio.
+194,O O-diethylthiophos.
+195,O-toluensulfonamid
+196,M-toluensulfonamid
+197,P-toluensulfonamid
+198,Permanganattal KMnO4
+199,Anioniske detergenter
+200,Nitrogen iltf. NOD
+201,Xylenoler
+202,Naphtalen
+203,Styren
+204,Acetone
+205,Terpentin
+206,Isocyanater
+207,Cyanid  total
+208,Cyanid  oxiderbart
+209,Cyanid  syreflygtigt
+210,Ethanol
+211,2-propanol
+212,Hexan
+213,Di-iso-propylether
+214,Acenaphthylen
+215,Benzen
+216,Iso-propylacetat
+217,Methyl-isobutylketon
+218,Toluen
+219,Diethylcarbonat
+220,N-butyl-acetat
+221,Xylen
+222,Benz(b)fluoranthen
+223,Dibenz(ah)anthracen
+224,Benz(ghi)perylen
+225,Benz(k)fluoranthen
+226,2 4-di-tert-butylphemol
+227,2 6-di-tert-butylphenol
+228,p-Tert-butyl-toluen
+229,C10-aromater
+230,Butanol
+231,Affarv.m. meth.blÃ¥t
+232,Benz(a)anthracen
+233,Benzin
+234,Fructose
+235,Gluten
+236,Kostfibre  total
+237,Mononatriumglutaminat
+238,Ammoniak fri
+239,Ammoniak-N fri
+240,Ammoniak+ammonium
+241,Ammoniak+ammonium-N
+242,Ammonium-N
+243,Nitrit
+244,Nitrit-N
+245,Nitrit som NaNO2
+246,Nitrat
+247,Nitrat-N
+248,Nitrat som KNO3
+249,Organisk - N
+250,Uorganisk N
+251,Nitrit+nitrat-N
+252,Kjeldahl-N
+253,Nitrogen total
+254,KvÃ¦lstofilter (NOx)
+255,Orthophosphat
+256,Orthophosphat-P
+257,Orto + polyfosfat-P
+258,Polyphosphat
+259,Polyphosphat-P
+260,CitratoplÃ¸s. phosph.
+261,Phosphor  total-P
+262,Phosphor total PO4
+263,Phosphor  Fe-adsb.
+264,Phosphor  Ca-adsb.
+265,Phosphor  Al-adsb.
+266,Phosphater (P2O5)
+267,Aluminium
+268,Aluminiumoxid
+269,Antimon
+270,Arsen
+271,Barium
+272,Beryllium
+273,Bismuth
+274,Bly
+275,Bor
+276,Brom
+277,Bromid
+278,Bromat
+279,Cadmium
+280,Calcium
+281,Chlor total
+282,Chlor frit
+283,Chlor  bundet
+284,Chlorphenol
+285,Chlor org AOX
+286,Chlor org VOX
+287,2-Chlorphenol
+288,Monochloramin-Cl2
+289,Dichloramin  -Cl2
+290,Trichloramin -Cl2
+291,Chlordioxid -Cl2
+292,Chlorit
+293,Chlorat
+294,Acrylamid
+295,Epichlorhydrin
+296,Sum chlorit/chlorat
+297,Chlorid
+298,Salt total
+299,Saltsyre
+300,Chrom
+301,Chrom hexavalent
+302,Chrom trivalent
+303,Chromat-Cr
+304,Kobolt (Co)
+305,Hydrogencyanid
+306,Cyanat
+307,Fluor
+308,Fluorid
+309,Flussyre
+310,Freon
+311,Hydrogen
+312,Jern
+313,Jern ferro
+314,Jern ferri
+315,Jod
+316,Jodid
+317,Kalium
+318,Kobber
+319,KviksÃ¸lv
+320,Lithium
+321,Magnesium
+322,Mangan
+323,Molybden (Mo)
+324,Natrium
+325,Natriumsulfat
+326,Nikkel
+327,Selen
+328,Rubidium
+329,Silicium
+330,Siliciumdioxid
+331,Strontium
+332,Svovl total
+333,Svovldioxid
+334,Sulfat-S
+335,Sulfat
+336,Sulfit
+337,Hydrogensulfat-S
+338,Sulfit-S
+339,Sulfat+sulfit-S
+340,Sulfat+sulfit SO4
+341,Thiosulfat
+342,Sulfid-S
+343,Hydrogensulfid-S
+344,Svovlsyre
+345,SÃ¸lv
+346,Thallium
+347,Tin
+348,Titan
+349,Tritium
+350,Vanadium
+351,Uran
+352,Tellur
+353,Zink
+354,Hydroxyd
+355,Perchlorat
+356,Methan
+357,Ethan
+358,Ethylen
+359,Detergenter nonion
+360,Detergenter kation
+361,Fedt
+362,Olie
+363,Olie og fedt
+364,Olie-benzin
+365,Kulbr. opl.el.emulg.
+366,Polyc.arom.kulbr.PAH
+367,Extraherbare stoffer
+368,Chloroformekstr.stof
+369,Org. chlorforbind.
+370,1 1 1 2-tetrach.ethan
+371,Tetrachlorethaner
+372,Trihalomethaner sum4
+373,Trihalomethaner
+374,Chloroform
+375,Dichlormonobrommetan
+376,Dibrommonochlormetan
+377,Bromoform
+378,Tetrachlormethan
+379,Tetrachlorethylen
+380,Trichlorethylen
+381,Bromchlormethan
+382,Dibrommethan
+383,1 1 1-trichlorethan
+384,Dibromethan
+385,Dichlorethan
+386,Dichlormethan
+387,Tetrachlorphenol
+388,Dichlobenil
+389,Diuron
+390,1-chlorbutan
+391,n-butylether
+392,Methylcyklohexanon
+393,N-cyklohexylcyklohexanamin
+394,Tetramethylcyklohexadion
+395,Triethylamin
+396,Flygt.syrer s.edd.s.
+397,Formaldehyd
+398,p-xylen
+399,m-xylen
+400,o-xylen
+401,m+p-xylen
+402,3-ethyltoluen
+403,Sum:eth.benz+xylener
+404,Phenol
+405,Phenoltal
+406,Phenoler som phenol
+407,3-methylphenol
+408,2 3 dimethylphenol
+409,2-methylphenol
+410,4-methylphenol
+411,3 4-dimethylphenol
+412,3 5-dimethylphenol
+413,2 6-dimethylphenol
+414,2 4-dimethylphenol
+415,4-chlor-2-methylphenol
+416,6-chlor-2-methylphenol
+417,2 4-dichlorphenol
+418,4 6-dichlor-2-methylphenol
+419,2 6-dichlorphenol
+420,2 4 6-trichlorphenol
+421,2 3 4 6-tetraclorphenol
+422,2 3 5 6-tetraclorphenol
+423,2 3 4 5-tetraclorphenol
+424,Pentachlorphenol
+425,Trimethylenamin
+426,2 5-dimethylphenol
+427,4-chlorphenol
+428,Butylenglycol
+429,Fluoranthen
+430,2-Methylnaphtalen
+431,HMF
+432,Natriumferrocyanid
+433,Kaliumferrocyanid
+434,Cresoler
+435,BOD ufortyndet
+436,Vandstand DNN
+437,Vandstand lokal
+438,2 6-Dichlorbenzamid
+439,Vandstand DVR90
+440,Pesticider  sum
+441,Microtox-test
+442,Indeno(1 2 3-cd)pyren
+443,Dieselolie
+444,Fyringsolie
+445,Petroleum
+446,BTEX'er og lignende
+447,Benzylalkohol
+448,BTEX (sum)
+449,Ethylbenzen
+450,TEX (sum)
+451,2-Nitrophenol
+452,2 4-Dinitrophenol
+453,4-Nitrophenol
+454,C2-Phenoler
+455,C3-Phenoler
+456,1-Naphthol
+457,1 2-Diphenylhydrazin
+458,2-Methylquinolin
+459,2-Naphtol
+460,2 4-Dinitrotoluen
+461,2 6-Dinitrotoluen
+462,4-Chlornitrobenzen
+463,6-Methylquinolin
+464,Acenaphthen
+465,Acridin
+466,Anilin
+467,Aromater mono/bicyk
+468,Benzidin
+469,Benzylbuthylphthalat
+470,Biphenyl
+471,Diphenylamin
+472,Diphenylether
+473,N-Butylbenz.sulf.am
+474,N-Nitrosodiphenamin
+475,Nitrobenzen
+476,Tri-o-tolylphosphat
+477,Triphenylphosphat
+478,Acrylaldehyd
+479,Acrylonitril
+480,Dibuthylphthalat
+481,Diethanolamin
+482,Diethyldisulfid
+483,Diethylether
+484,Diethylphthalat
+485,Diethylsulfid
+486,Dimethylphthalat
+487,Dioxan
+488,Diprophyldisulfid
+489,Ethylacetat
+490,Ethylenglykol
+491,Ethylmethyldisulfid
+492,Ethylmethylsulfid
+493,Hydrocarbon.  C8-C15
+494,Methylpropyldisulfid
+495,N-Butyloctansyreamid
+496,N-Nitrosodimeth.amin
+497,N-Nitrosodiprop.amin
+498,Propylenglykol
+499,Tributylphosphat
+500,Triethylphosphat
+501,Campher
+502,Camphen
+503,Cyclohexanon
+504,Dibenzothiophen
+505,Inden
+506,Indol
+507,Isophoron
+508,Isoquinolin
+509,Limonen
+510,Pyridin
+511,Quinolin
+512,Tetrahydrofuran
+513,TjÃ¦re
+514,Benzo(b)fluoren
+515,Benzo(e)pyren
+516,Benzo(j)fluoranthen
+517,Naphthacen
+518,Dichlorethylen
+519,1 1 2-Trichlorethan
+520,1 1 2 2-Tetrachlorethan
+521,Bis(2-chlorethoxy)methan
+522,Bis(2chlorethyl)ether
+523,3-Chlorphenol
+524,4-chlor-3-methylphenol
+525,1 2-Dichlorbenzen
+526,1 2 4-Trichlorbenzen
+527,1 2 4 5-Tetrachlorbenzen
+528,1 3-Dichlorbenzen
+529,1 4-Dichlorbenzen
+530,2-Chloranilin
+531,2-Chlornaphthalen
+532,3 4-Dichloranilin
+533,4-Chlorphenyl-phenyl-ether
+534,Chlorbenzen
+535,Pentachloranisol
+536,Pentachlorbenzen
+537,4-Bromphenyl-phenyl-ether
+538,Brombenzen
+539,Toxaphen
+540,Bis(2-chlorisopropyl)-ether
+541,Bis(chlormethyl)ether
+542,Bromdichlormethan
+543,Chlorethan
+544,Dichlordifluormethan
+545,Hexachlorbutadien
+546,Hexachlorcyclopentadien
+547,Hexachlorethan
+548,Trichlorfluormethan
+549,Tris(2-chlorethyl)phosphat
+550,Tris(3-chlorprophyl)-phosphat
+551,2-(2 6-dichlorphenoxy)propionsyre
+552,2 4 5-T
+553,Amitrol
+554,Bromacil
+555,Chlordan
+556,Dalapon
+557,Dibenzofuran
+558,Dieldrin
+559,Endrin
+560,Heptachlor
+561,Heptachlorepoxid
+562,Hexachlorbenzen
+563,Gamma Lindan (HCH)
+564,Malathion
+565,Methoxychlor
+566,Methylbromid
+567,DDE (sum o p'+p p')
+568,DDD (sum o p'+p p')
+569,DDT (sum o p'+p p')
+570,Terbacil
+571,DiethylkviksÃ¸lv
+572,DimethylkviksÃ¸lv
+573,DiphenylkviksÃ¸lv
+574,Tetraethylbly
+575,Tributhyltinacetat
+576,Tributhyltinnaphth.
+577,Tributhyltinoxid
+578,Thiocyanid
+579,4-Nonylphenol
+580,1 2 3 4 6 8 9-HpCDF
+581,1 3-dioxan
+582,3-methyl-2-nitrophenol
+583,3-methyl-4-nitrophenol
+584,Dimethylerede dibenzothiophener
+585,Trimethylerede dibenzothiophener
+586,Quintozen
+587,Trotyl/TNT
+588,Aldrin
+589,Amitraz
+590,Atrazin  desethyl-
+591,Atrazin  desisopropy
+592,Atrazin  hydroxy-
+593,Azinphos-ethyl
+594,Azinphos-methyl
+595,Benazolin-ethyl
+596,Binapacryl
+597,Bromophos
+598,Bromophos-ethyl
+599,Bromopropylat
+600,Bromoxynil
+601,Bupirimat
+602,Captafol
+603,Captan
+604,Carbaryl
+605,Carbendazim
+606,Carbetamid
+607,Carbofenotion
+608,Carbosulfan
+609,Carboxin
+610,Chinomethionat
+611,Chlorfenson
+612,Chlorfenvinphos
+613,Chloridazon
+614,Chlormefos
+615,Chlormequat-chlorid
+616,Chloropropyate
+617,Chlorothalonil
+618,Chlorpropham
+619,Chlorpyrifos-methyl
+620,Chlorsulfuron
+621,Clopyralid
+622,Cyanazin
+623,Cyanofenphos
+624,Cyanophos
+625,Cycloat
+626,Cyfluthrin
+627,Cyhalothrin  lambda-
+628,Cypermethrin
+629,Cypermethrin  alfa-
+630,2 4-DB
+631,2 6-DCPP
+632,DDD  o p'-
+633,DDD  p p'-
+634,DDE  o p'-
+635,DDE  p p'-
+636,DDT  o p'-
+637,DDT  p p'-
+638,Deltamethrin
+639,Desmedipham
+640,Desmetryn
+641,Dialifos
+642,Diazinon
+643,Dicamba
+644,Dichlorfluanid
+645,Dimetachlor
+646,Dimethoat
+647,Dinobuton
+648,Endosulfan
+649,Endosulfan  alpha
+650,Endosulfan  beta
+651,EPTC
+652,Esfenvalerat
+653,Ethiofencarb
+654,Ethion
+655,Ethofumesat
+656,Ethylenthiurea
+657,Etrimfos
+658,Fenamiphos
+659,Fenchlorphos
+660,Fenfuram
+661,Fenitrothion
+662,Fenoprop
+663,Fenpropimorph
+664,Fenson
+665,Fenthion
+666,Fenvalerat
+667,Flamprop-M-isopropyl
+668,Fluazifop
+669,Fluazifop-butyl
+670,Flucythrinat
+671,Fluroxypyr
+672,Folpet
+673,Fonofos
+674,Formothion
+675,Glyphosat
+676,HCH-alfa
+677,HCH-beta
+678,HCH-delta
+679,Heptenophos
+680,Hexazinon
+681,Hymexazol
+682,Imazalil
+683,Ioxynil
+684,Iprodion
+685,Isofenphos
+686,Lenacil
+687,Linuron
+688,Maleinhydrazid
+689,MCPB
+690,Mecarban
+691,Mephosfolan
+692,Metalaxyl
+693,Metamitron
+694,Metazachlor
+695,Methabenzthiazuron
+696,Methidathion
+697,Metolachlor
+698,Metribuzin
+699,Metsulfuron methyl
+700,Mevinphos
+701,Mirex
+702,Oxydemeton-methyl
+703,Parathion
+704,Parathion-methyl
+705,Penconazol
+706,Pendimethalin
+707,Permethrin
+708,Phenmedipham
+709,Phosalon
+710,Phosmet
+711,Phosphamidon
+712,Pirimicarb
+713,Pirimiphos-methyl
+714,Prochloraz
+715,Procymidon
+716,Profenofos
+717,Promecarb
+718,Prometryn
+719,Propachlor
+720,Propanil
+721,Propargit
+722,Propazin
+723,Propham
+724,Propiconazol
+725,Propineb
+726,Propoxur
+727,Propyzamid
+728,Prothiofos
+729,Pyrazophos
+730,Quinalphos
+731,Sebutylazin
+732,Sulfotep
+733,Tecnazen
+734,Terbuthylazin
+735,Terbutryn
+736,Tetrachlorvinfos
+737,Tetradifon
+738,Tetrasul
+739,Thiabendazol
+740,Thifensulfuron methy
+741,Thionazin
+742,Tolclofos-methyl
+743,Tolylfluanid
+744,Tri-allat
+745,Triadimefon
+746,Triadimenol
+747,Triasulfuron
+748,1 2 4-Triazol
+749,Triazophos
+750,Tribenuron methyl
+751,Trifluralin
+752,Triforin
+753,Vinclozolin
+754,Sulfanilsyre
+755,Disulfoton
+756,Hydrazin
+757,Pirimicarb-desmethyl
+758,Metamitron-desamino
+759,Metribuz-desam-diket
+760,Metribuzin-desamino
+761,Metribuzin-diketo
+762,1-methoxy-naphthalen
+763,Monophenyltin (MPhT)
+764,Sea Nine
+765,Zineb
+766,Zinkpyrithion
+767,2 3-dichlorphenol
+768,2 5-dichlorphenol
+769,3 4-dichlorphenol
+770,3 5-dichlorphenol
+771,2 4+2 5-dichlorphenol
+772,Methyldibenzothiophenol
+773,Pirimiphos-ethyl
+774,Diethoat
+775,Methylsulfotep
+776,MPEM
+777,Terbufos
+778,DEPAT
+779,DMPAT
+780,d-ethyl-parathion
+781,d-met-MP3
+782,d-methyl-dimethoat
+783,MMHOOSPS  MP-1
+784,EEHOOSPS  EP-1
+785,EHHOOOPS
+786,MMHOOOPS
+787,EEHOOOPS
+788,Iso-MP-1
+789,EOOSPS
+790,EOOSPO
+791,MOOOPS
+792,EEMOOSPO
+793,MMEOOSPS
+794,EEMOOSPS
+795,EEMOOOPS
+796,MMEOOOPS
+797,Ethylamino-parathion
+798,EP-1-methylamid
+799,MP-1-methylamid
+800,Pyrimidin
+801,Methoxy-pyrimidin
+802,Ethoxy-pyrimidin
+803,Isopropylamin
+804,DEPAT acetamid
+805,DMPAT acetamid
+806,Iminodieddikesyre
+807,Sarcosin
+808,Glycin
+809,Maleinsyre
+810,Maleinsyrediethylester
+811,Dialkylsulfider
+812,Tripol
+813,Phos.Syretributylester
+814,tert-Butyl-alkohol
+815,tert-Butyl-formiat
+816,Isoduren
+817,p-Cymen
+818,Tetralin
+819,GCH super-cyklohalothrin
+820,Cyklohalothrinsyre
+821,Ketosyre
+822,DDA (sum af opÂ·ppÂ·)
+823,Carbamat
+824,Benzfluroanthen b+j+k
+825,C3-alkylbenzener
+826,C4-alkylbenzener
+827,C9-aromater
+828,Dibromdichlormethan
+829,Methylnaphthalater
+830,Terbutylazin hydroxy
+831,Methomyl
+832,2 6-dichlorbenzosyre
+833,Flamprop
+834,Chlorpyrifos
+835,2-M-6-CPA
+836,2-M-4 6-DCPA
+837,2-M-4 6-DCPP
+838,2 3 6-TCBA
+839,Dinoterb
+840,AOC
+841,Dichlorprop
+842,MCPA
+843,Mechlorprop
+844,DNOC
+845,Dinoseb
+846,Atrazin
+847,Simazin
+848,Trichloreddikesyre
+849,Aldicarb
+850,Carbofuran
+851,1-2-dichlorpropan
+852,Alachlor
+853,Methylisothiocyanat
+854,1-3-dichlorpropylen
+855,1-butanol
+856,1 2 3-trichlorbenzen
+857,Butyl-glycol
+858,Nitrogen  vandoplÃ¸leligt
+859,Dichlorphenoler
+860,Trichlorphenoler
+861,2 4 5-trichlorphenol
+862,AMPA
+863,Omethoat
+864,MAMP
+865,PMIE
+866,cis-1 3-dichlorpropen
+867,trans.-1 3-dichlorpropen
+868,1 1-dichlorethan
+869,1 2 3 4-tetrachorlbenzen
+870,Methylparaben
+871,Ethylparaben
+872,Propylparaben
+873,Butylparaben
+874,Benzylparaben
+875,4-MBC
+876,Vitellogenin
+877,Ã˜tron
+878,17beta-Ã¸stradiol
+879,17alfa-Ã¸stradiol
+880,EthinylÃ¸stradiol
+881,Ã˜striol
+882,Triazine amine
+883,Triazine amin methyl
+884,Azoxystrobin
+885,Clofentezine
+886,Cyprodinil
+887,Diflubenzuron
+888,Fenpropathrin
+889,Fluazinam
+890,Haloxyfop
+891,Hexythiazox
+892,PHCP
+893,Pyridate
+894,Pyrimethanil
+895,Tebuconazol
+896,Pristan
+897,n-Decane
+898,Dicofol
+899,Fenamirol
+900,n-Heptadecane
+901,n-Octadecane
+902,Phytane
+903,Glutaraldehyde
+904,Thiophen
+905,Benzofuran
+906,1-Benzothiophen
+907,Carbazol
+908,Hydroxymethylphosphonsyre
+909,Sulfadiazin
+910,Sulfathiazol
+911,Sulfamerazin
+912,Sulfamethiazol
+913,Sulfamethazin
+914,Sulfadoxin
+915,Sulfamethoxazol
+916,Sulfatroxazol
+917,Sulfapyrazol
+918,Dapson
+919,4-CPA
+920,2 6-DCPA
+921,2-MPP
+922,Silikat
+923,Hexacyanoferrat
+924,Phenoxysyrer
+925,PCB
+926,PCT
+927,Arochlor 5460
+928,PCB 26
+929,PCB 77
+930,PCB 169
+931,PCB 28
+932,PCB 31
+933,PCB 52
+934,PCB101
+935,PCB105
+936,PCB118
+937,PCB138
+938,PCB153
+939,PCB156
+940,PCB180
+941,PCB170
+942,PCB149
+943,PCB128
+944,Trans-nonachlor
+945,Sum af PCB28 + PCB31
+946,BDE#47
+947,BDE#99
+948,BDE#100
+949,BDE#153
+950,BDE#154
+951,BDE#183
+952,BDE#209
+953,BDE #85
+954,BDE #28
+955,BDE #49
+956,BDE #66
+957,BDE #17
+958,PCB 44
+959,PCB 49
+960,PCB 99
+961,PCB110
+962,PCB151
+963,PCB187
+964,Sum af 7 PCB
+965,Trimethylnaphthalener
+966,BDE (sum af 9)
+967,Dioxiner og furaner
+968,Sum af 10 PCB
+969,1 2-dimethylnaphthalen
+970,1 3-dimethylnaphthalen
+971,1 4-dimethylnaphthalen
+972,1 5-dimethylnaphthalen
+973,1 6-dimethylnaphthalen
+974,1 7-dimethylnaphthalen
+975,1 8-dimethylnaphthalen
+976,2 3-dimethylnaphthalen
+977,2 6-dimethylnaphthalen
+978,2 7-dimethylnaphthalen
+979,1 2 3-trimehylnaphthalen
+980,1 2 4-trimehylnaphthalen
+981,1 4 5-trimehylnaphthalen
+982,1 4 6-trimehylnaphthalen
+983,1 6 7-trimehylnaphthalen
+984,1 2 5-trimehylnaphthalen
+985,2 3 6-trimehylnaphthalen
+986,Alginsyre
+987,Ascorbinsyre
+988,Benzoesyre
+989,Butylhydr.anisol BHA
+990,Butylhydr.toluen BHT
+991,m-Hydroxybenzoesyre
+992,m-Hydroxyphenyleddikesyre
+993,4-Ethylphenol
+994,4-tert-Butylphenol
+995,2 6-di-tert-butyl-p-benzoquinon
+996,3 5-di-tert-butyl-4-hydroxy-styren
+997,3 5-di-tert-butyl-4-hydroxy-benzaldehyd
+998,3 5-di-tert-butyl-4-hydroxy-acetophenon
+999,7 9-di-tert-butyl-1-oxaspirol(4 5)deca-6 9-dien-2 8-dion
+1000,3-(3 5-di-tert-butyl-4-hydroxyphenyl)methylpropanoat
+1001,Citronsyre
+1002,Coffein
+1003,Cyclamat
+1004,Eddikesyre
+1005,Myresyre
+1006,p-Hydroxybenzoesyre
+1007,MÃ¦lkesyre
+1008,Lactose
+1009,Maltose
+1010,Sucrose
+1011,Pectin
+1012,Propionsyre
+1013,Glutaminsyre
+1014,Sacharin
+1015,Sorbinsyre
+1016,Sorbitol
+1017,Tannin
+1018,Tocopherol
+1019,Vinsyre
+1020,Riboflavin
+1021,Tartrazin
+1022,Quinolin gult
+1023,Sunset yellow
+1024,Azorubin
+1025,Amarant
+1026,Green S
+1027,Ponceau 4R
+1028,Erytrocin
+1029,Patent blue V
+1030,Brilliant blue
+1031,Black PN
+1032,Indigotin I
+1033,Karamel
+1034,Annattoekstrakt
+1035,Kollagen
+1036,Glucose
+1037,Stivelse
+1038,Chlorophyl A
+1039,Chlorophyl(ukorr.)
+1040,Pheopigment
+1041,Pheophytin
+1042,Pr.prod.ass-C poten.
+1043,Pr.prod.ass-C dg.int
+1044,Pr.prod. 24 max.
+1045,LD-50  gubbier 24tm
+1046,LD-50  gubbier 48tm
+1047,LD-50  gubbier 72tm
+1048,LC-50  gubbier 24tm
+1049,LC-50  gubbier 48tm
+1050,LC-50  gubbier 72tm
+1051,LD-50 zebrafisk 24tm
+1052,LD-50 zebrafisk 48tm
+1053,LD-50 zebrafisk 72tm
+1054,LD-50 zebrafisk 96tm
+1055,LC-50 zebrafisk 24tm
+1056,LC-50 zebrafisk 48tm
+1057,LC-50 zebrafisk 72tm
+1058,Methanol
+1059,Histamin
+1060,Aspartam
+1061,Diethylenglycol
+1062,Glucono-delta-lacton
+1063,Hydroxyprolin
+1064,Nonylphenol(NP1EO)
+1065,Nonylphenol(NP2EO)
+1066,NPE NP1EO+NP2EO+NP
+1067,PAH (sum af 9 PAH)
+1068,PAH (sum af 16)
+1069,PAH (sum af 4 PAH)
+1070,Isoxaben
+1071,TÃ¸rstof beregnet
+1072,TÃ¸rstof beregnet i % af inddampningsrest
+1073,Trichlortrifluorethn
+1074,CFC-Ã¥rstal
+1075,1 2-dichlor-4-nitro-benzen
+1076,1 2-dichlorethan
+1077,1 4-dichlor-2-nitro-benzen
+1078,1 4-napthoquinon
+1079,1234678HpCDD
+1080,1234678-HpCDF
+1081,1234789-HpCDF
+1082,123478-HxCDD
+1083,123478-HxCDF
+1084,123678-HxCDD
+1085,123678-HxCDF
+1086,123789-HxCDD
+1087,123789-HxCDF
+1088,12378-PeCDD
+1089,12378-PeCDF
+1090,1-chlor-2 nitrobenzen
+1091,1-chlor-3-nitrobenzen
+1092,1-Chlornaphthalen
+1093,1-Methylpyren
+1094,4-Cl-anilin
+1095,3-Cl-anilin
+1096,2 5-dichloranilin
+1097,234678-HxCDF
+1098,23478-PeCDF
+1099,2378-TCDD
+1100,2378-TCDF
+1101,2-Chlortoluen
+1102,2-Methylphenanthren
+1103,Methylphenanthrener
+1104,2-Methylpyren
+1105,Dimethylphenanthren
+1106,3-Chlorpropen
+1107,3-Chlortoluen
+1108,4-chlor-2-nitrotoluen
+1109,4-Chlortoluen
+1110,m+o-Toluidin
+1111,p-Toluidin
+1112,astrazon blau 3RL
+1113,astrazon blau 5GL200
+1114,astrazon gelb8GSL200
+1115,astrazon rot BBL 200
+1116,Benz(a)fluoren
+1117,1-Methylfluoren
+1118,Benzylchlorid
+1119,Bisphenol A
+1120,Chlorbenzilat
+1121,Chloreddikesyre
+1122,C5-C8 kulbrintefraktion
+1123,C5-C10 kulbrintefraktion
+1124,C10-C25 kulbrintefraktion
+1125,C25-C35 kulbrintefraktion
+1126,Nonylphenoxyeddikesyre
+1127,Nonylphenoxymonoethoxyeddikesyre
+1128,Nonylphenoxydiethoxyeddikesyre
+1129,C8-C10 kulbrintefraktion
+1130,C7-C12 kulbrintefraktion
+1131,C9-C16 kulbrintefraktion
+1132,C10-C12 kulbrintefraktion
+1133,C12-C16 kulbrintefraktion
+1134,C16-C35 kulbrintefraktion
+1135,C6-C10 kulbrintefraktion
+1136,C6-C35 kulbrintefraktion
+1137,Adenosin-triphosphat
+1138,Adsorberet P
+1139,Jernbundet P
+1140,Calciumbundet P
+1141,Organisk bundet P
+1142,1 3 5-trimethylbenzen
+1143,1 2 4-trimethylbenzen
+1144,1 2 3-trimethylbenzen
+1145,1-Methylnapthalen
+1146,Fluoren
+1147,Antracen
+1148,Pyren
+1149,Chrysen
+1150,Benz[a]pyren
+1151,Benzo(b+j)fluoranthen
+1152,PAH  sum af 6
+1153,NedbÃ¸r
+1154,Temperatur
+1155,VandfÃ¸ring
+1156,LuftmÃ¦ngde
+1157,Ã˜jebliks-vandfÃ¸ring
+1158,Minimum vandfÃ¸ring
+1159,Maximum vandfÃ¸ring
+1160,StrÃ¸mretning
+1161,StrÃ¸mhastighed
+1162,Photometer ref.
+1163,Photometer mÃ¥ling
+1164,LysdÃ¦mpning
+1165,Iltindhold
+1166,IltmÃ¦tning
+1167,Dihydrogensulfid
+1168,2 4-D
+1169,Bentazon
+1170,Isoproturon
+1171,Vinylchlorid
+1172,Urea  CH4N2O
+1173,Bromophos-methyl
+1174,Dichlorfenthion
+1175,Prometon
+1176,Lufttemperatur
+1177,Dinitrogenoxid
+1178,Butanon
+1179,C9-phenoler
+1180,C10-phenoler
+1181,C11-phenoler
+1182,Triphenylen
+1183,Crysen/triphenylen
+1184,Ionbalance
+1185,Radioakt.indik.Total
+1186,Alkylbenzener (sum af 3)
+1187,Octyl- + nonylphenol
+1188,Ilt-18 isotop
+1191,GlÃ¸derest
+1194,Coliforme bakt.37Gr.
+1195,Termotol.coli.bakt.
+1200,Farvestof
+1201,Dimethylphenanthrener
+1202,Trimethylphenanthrener
+1203,7 12-dimethylbenz(a)anthracen
+1204,Benz(b+k)fluoranthen
+1205,Diphenyltin
+1206,DMST
+1207,Fenoxaprop
+1208,Imazapyr
+1209,Quinmerac
+1210,Monuron
+1211,1-(3 4-dichlorophenyl)-urea
+1212,1-(3 4-dichlorophenyl)-3-methylurea
+1213,Sulfanilamid
+1214,Sulfaguanidin
+1215,C9-C10 aromater
+1216,PCB 81
+1217,PCB126
+1218,Intestinale enterokokker
+1219,C-total
+1220,Sand
+1221,Silt
+1222,Grus & sten
+1223,Pyrit
+1224,Calcit
+1228,Kimtal 37Gr. PCA
+1229,E.coli
+1230,Fluorescens
+1231,pH  feltmÃ¥ling
+1232,Konduktivitet  feltmÃ¥ling
+1234,Fosfortal
+1235,Chrysen+Benz(a)anthracen
+1236,C2-dibenzothiophener
+1237,C3-dibenzothiophener
+1238,Diethyl-hydroxy-atrazin
+1239,Diisopropyl-hydroxyatrazin
+1240,Didealkyl-hydroxy-atrazin
+1241,1-methoxy-2-propylacetat
+1242,Mesosulfuron
+1243,Mesosulfuron-methyl
+1244,Beregnet partialtryk i atmosfÃ¦ren  CFC-12
+1245,Beregnet partialtryk i atmosfÃ¦ren  CFC-113
+1246,Ã…rstal for grundvandsdannelsen  CFC-11
+1247,Ã…rstal for grundvandsdannelsen  CFC-12
+1248,Ã…rstal for grundvandsdannelsen  CFC-113
+1249,Alder
+1250,Vandforbrug
+1251,Svovlhexafluorid
+1252,Chlordecon
+1253,Ethylenoxid
+1254,Hexabrombiphenyl
+1255,Perfluorbutansyre
+1256,Perfluorhexansulforsyre
+1257,Perfluoroktansulfonsyre
+1258,Perfluordecansulfonsyre
+1259,Perfluorohexansyre
+1260,Perfluoroheptansyre
+1261,Perfluoroktansyre
+1262,Perfluorononansyre
+1263,Perfluoroktansulfonamid
+1264,Perfluorodecansyre
+1265,Perfluoroundecansyre
+1266,Perfluordodecansyre
+1267,Perfluorotridecansyre
+1268,Ar-37
+1269,Ar-39
+1270,Ar-40
+1271,Delta C-13
+1272,C-14
+1273,Cl-36
+1274,delta Deuterium
+1275,He-3
+1276,He-4
+1277,Kr-84
+1278,Kr-85
+1279,Ne-20
+1280,Xe-129
+1338,WHO-TEQ 1998 c-PCB
+1340,WHO-TEQ 1998 PCDD/F

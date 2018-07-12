@@ -1,0 +1,28 @@
+id,name
+1,Antal
+2,Antal pr træk
+3,Antal pr m^2
+4,Biomasse vådvægt
+5,Biomasse tørvægt
+6,Biomasse kulstof
+7,Total biomasse vådvægt
+8,Total biomasse tørvægt
+9,Individ biomasse tørvægt
+10,Individ biomasse vådvægt
+11,Volumen
+12,Fast volumen
+13,Gald
+14,Fast gald
+15,Vegetationshøjde
+16,Flydebladsdækning
+17,Trådalgedækning
+18,Bundareal
+19,Antal pr liter
+20,Askevægt
+21,Carbonbiomasse pr individ
+22,Carbonbiomasse pr liter
+23,Plasmavolumen pr individ
+24,Volumen pr individ
+25,Volumen pr liter
+26,Glødetab; total
+27,Skudtæthed
