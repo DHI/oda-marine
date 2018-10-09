@@ -27,8 +27,8 @@ class ODAProxy
 	  write_header
 	end
 	
-    @url = "http://odahavdata.oda.dk/ODAHavData.asmx?WSDL"
-    @client = Savon::Client.new(wsdl: @url, log: false)
+    @url = "https://odahavdata.oda.dk/ODAHavData.asmx?WSDL"
+    @client = Savon::Client.new(wsdl: @url,endpoint: @url, ssl_verify_mode: :none,log: false)
   end
 
 
